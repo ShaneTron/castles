@@ -1,0 +1,12 @@
+.button {
+  cursor: pointer;
+  color: blue;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+
+.show {
+  display: none;
+}
