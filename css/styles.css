@@ -1,12 +1,24 @@
-.button {
+/*.button {
   cursor: pointer;
   color: blue;
 }
 
 .button:hover {
   text-decoration: underline;
-}
+}*/
 
 .show {
   display: none;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.blue-background {
+  background-color: blue;
 }
